@@ -5,13 +5,12 @@ scene only when the participant's brainwave activity falls within the target
 frequency band.
 
 ## Target Frequency
-Default: Alpha band (8–12 Hz)
-Adjustable to theta, SMR, or beta bands within the code.
+Default: Alpha band (8–12 Hz) - Adjustable
 
 ## Requirements
 - MATLAB
-- Signal Processing Toolbox (for bandpower function)
-- EEG device (or runs on simulated signal for testing)
+- Signal Processing Toolbox (such as OpenViBE or BioEra)
+- EEG
 
 ## How to Use
 1. Open neurofeedback_city_game.m in MATLAB
