@@ -16,7 +16,7 @@ Default: Alpha band (8–12 Hz) - Adjustable
 1. Open neurofeedback_city_game.m in MATLAB
 2. Adjust TARGET_FREQ_LOW and TARGET_FREQ_HIGH to your desired band
 3. Set THRESHOLD based on client needs (default 0.5)
-4. Connect EEG device or run in simulation mode
+4. Connect EEG device and set EEG parameters within code under EEG INPUT SECTION
 5. Press Escape to end session
 
 ## Notes
