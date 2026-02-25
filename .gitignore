@@ -1,0 +1,6 @@
+# MATLAB auto-generated files
+*.asv
+*.m~
+*.mex*
+*.slxc
+.DS_Store
