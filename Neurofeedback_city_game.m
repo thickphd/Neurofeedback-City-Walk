@@ -1,7 +1,8 @@
 function neurofeedback_city_game()
 % NEUROFEEDBACK CITY WALKING GAME
 % Character walks through a city only when target brainwave frequency is active.
-% Default: targets alpha band (8-12 Hz). Swap in real EEG in the marked section.
+% Default: targets alpha band (8-12 Hz). 
+% SIMULATED: Add EEG Info to EEG INPUT SECTION
 
 %% ---- SETTINGS -------------------------------------------------------
 TARGET_FREQ_LOW  = 8;    % Hz - lower bound of target band
