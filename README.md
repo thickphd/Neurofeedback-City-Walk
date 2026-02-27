@@ -9,8 +9,9 @@ Default: Alpha band (8–12 Hz) - Adjustable
 
 ## Requirements
 - MATLAB
-- Signal Processing Toolbox (such as OpenViBE or BioEra)
+- Signal Processing Toolbox (I use BrainProducts Recorder + RecView). Ensure remote data access is selected
 - EEG
+- Animation UI, such as BioEra or OpenViBE
 
 ## How to Use
 1. Open neurofeedback_city_game.m in MATLAB
